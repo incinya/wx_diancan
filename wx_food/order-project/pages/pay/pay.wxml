@@ -1,0 +1,9 @@
+<view class="contaner">
+  <view class="info">
+    <icon type="success" size="80" color="green"/>
+    <text>支付成功！</text>
+  </view>
+  <view class="info img">
+    <image src="image/code.png" />
+  </view>
+</view>

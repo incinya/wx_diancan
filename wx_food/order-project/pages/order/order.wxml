@@ -1,0 +1,26 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="item-content">
+    <view class="box">
+      <view class="item" wx:for="{{items}}" wx:key="{{item.id}}">
+        <image src="image/item-m.jpg"></image>
+        <text class="title">{{item.title}}</text>
+        <text class="price">￥ {{item.price}} 元</text>
+        <view class="opera">
+          <text class="btn" bindtap="add" data-id="{{item.id}}" data-index="{{index}}">+</text>
+          <text class="num">{{item.num}}</text>
+          <text class="btn" bindtap="del" data-id="{{item.id}}" data-index="{{index}}">-</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="bottom-bar">
+    <view class="count">
+        共 <text class="num">{{orderCount.num}} 件</text>     
+        合计 <text class="num">{{orderCount.money}} 元</text> 
+    </view>
+    <view class="btn">
+        <text bindtap='pay'>结账</text>
+    </view>
+  </view>
+</view>

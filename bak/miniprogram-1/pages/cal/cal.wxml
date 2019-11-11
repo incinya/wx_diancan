@@ -1,0 +1,4 @@
+<!--pages/cal/cal.wxml-->
+<text>calculator page</text>
+<view><text>{{result}}</text></view>
+<button bindtap="add01">add01</button>

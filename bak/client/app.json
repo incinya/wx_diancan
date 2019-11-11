@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/menu/menu",
+    "pages/submit/submit",
+    "pages/comment/comment",
+    "pages/payment/payment"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#abd",
+    "navigationBarTitleText": "Eat点点",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

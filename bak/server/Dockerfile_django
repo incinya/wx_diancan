@@ -1,0 +1,12 @@
+FROM python:3-alpine
+ENV PYTHONUNBUFFERED 1
+RUN mkdir /home/ChickenDinner8
+ADD ./ChickenDinner8 /home/ChickenDinner8
+COPY ./uwsgi.ini /home/uwsgi.ini
+WORKDIR /home/ChickenDinner8
+RUN apk update \
+    && apk add --no-cache --virtual .build-deps build-base mariadb-dev jpeg-dev linux-headers \
+    && apk add mariadb-client-libs \
+    && pip3 install -r requirements.txt \
+    && apk del .build-deps
+CMD ["uwsgi", "--ini", "/home/uwsgi.ini"]

@@ -1,0 +1,39 @@
+branches:
+  only:
+  - master
+
+os: linux
+sudo: required
+
+services:
+  - docker
+
+language: python
+python: '3.6'
+
+before_install:
+    - echo "$SERVER_KEY" >> $HOME/.ssh/known_hosts
+    - sudo apt-get install -y sshpass
+
+install:
+    - pip install Django
+    - pip install Pillow
+    - pip install mysqlclient
+    - pip install pytz
+
+script: true
+  # uncomment this line to enable unit test
+  #- python3 manage.py test
+
+before_deploy:
+  - docker login -u "$REGISTRY_USER" -p "$REGISTRY_PASS"
+  - docker-compose build
+
+deploy:
+  provider: script
+  script: docker-compose push
+  on:
+    branch: master
+
+after_deploy:
+  - sshpass -e ssh $SSH_LOGIN "cd /home/rayman/ && /home/rayman/deploy.sh"

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>login</title>
+    <link rel="stylesheet" type="text/css" href="http://unpkg.com/iview/dist/styles/iview.css">
+    <link rel="stylesheet" type="text/css" href="login.css">
+    <script type="text/javascript" src="login.js"></script>
+    <script type="text/javascript" src="http://vuejs.org/js/vue.min.js"></script>
+    <script type="text/javascript" src="http://unpkg.com/iview/dist/iview.min.js"></script>
+</head>
+<body>
+	<div id="App-main">
+		<div id="Sign-content">
+			<div id="login-container">
+				<Tabs value="name1">
+			        <tab-pane label="账户密码登录" name="name1">
+			        	<div class="Loginlabel-Name">
+			        		<i-input id="name-input" placeholder="用户名"></i-input>
+			        		<i-input id="password-input" placeholder="密码"></i-input>
+			        		<i-input class="vertificate-input" placeholder="验证码"></i-input>
+			        		<div id="Getvertific-button2">验证码</div>
+			        		<checkbox size="large" id="Autosign-checkbox">自动登录</checkbox>
+			        		<p id="forget-button1" type="text" class="rightbutton">忘记密码</p>
+			        		<i-button type="primary" class="Login-button">登录</i-button>
+			        		<p id="Sign-button" type="text" class="rightbutton">注册账户</p>
+			        	</div>
+			        </tab-pane>
+			        <tab-pane label="手机号登录" name="name2">
+			        	<div class="Signlabel-Phone">
+			        		<i-input id="phone-input" placeholder="手机号"></i-input>
+			        		<i-input class="vertificate-input" placeholder="验证码"></i-input>
+			        		<i-button id="Getvertific-button">获取验证码</i-button>
+			        		<checkbox size="large" id="Autosign-checkbox">自动登录</checkbox>
+			        		<p id="forget-button2" type="text" class="rightbutton">忘记密码</p>
+			        		<i-button type="primary" class="Login-button">登录</i-button>
+			        		<p id="Sign-button" type="text" class="rightbutton">注册账户</p>
+			        	</div>
+			    </Tabs>
+			        </tab-pane>
+			</div>
+		</div>
+		<div id="Sign-footer">
+			<div class="SomeLinks">
+				<a href="www.baidu.com">帮助</a>
+				<a href="www.baidu.com">隐私</a>
+				<a href="www.baidu.com">条款</a>
+			</div>
+			<div class="Team">
+				<a>copyright © ChickenDinner8出品</a>
+			</div>
+		</div>
+	</div>
+<script>
+    new Vue({  
+    el: '#login-container',
+}) 
+</script>
+</body>
+</html>

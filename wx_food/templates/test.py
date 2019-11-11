@@ -1,0 +1,1 @@
+print('jk'.find('k'))

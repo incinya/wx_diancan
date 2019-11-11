@@ -1,0 +1,169 @@
+/**index.wxss**/
+/*.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}*/
+
+/*.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}*/
+
+/*.userinfo-nickname {
+  color: #aaa;
+}*/
+
+.usermotto {
+  /*color: #aaa;*/
+  text-align: center;
+  color:orange;
+  height: 20%;
+}
+/*.weui-tab {
+  height: 92rpx;
+}*/
+.weui-navbar {
+  background-color: white;
+}
+
+/**菜单列表**/
+.weui-cells {
+  margin-top: 12%;
+  height: 1020rpx;
+}
+.weui-cell__ft {
+  display: flex;
+  flex-direction: row;
+}
+.food-name {
+  font-size: 35rpx;
+}
+.food-description {
+  font-size: 30rpx;
+  color: gainsboro;
+}
+.food-price {
+  font-size: 35rpx;
+  color: crimson;
+  margin-right:20rpx;
+}
+
+/**底部结算栏**/
+.bar {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background:#f7f7f7;
+}
+.cart {
+  display: flex;
+  flex-direction: row;
+}
+
+.cart-num {
+  position:absolute;
+  left:58rpx;
+  top:0rpx;
+  font-size:25rpx;
+  line-height:36rpx;
+  padding:0 12rpx;
+  color:#fff;
+  background:#f45044;
+  border-radius:20rpx;
+}
+
+.cart-price {
+  margin-top: 20rpx;
+}
+.comfirm-button {
+  /*width: 300rpx;
+  background-color: #fbc;
+  color: white;
+  margin: 0;
+  position: absolute;
+  right: 2rpx;*/
+  width:30%;
+  float:right;
+  /*height:86rpx;
+  background:#abd;
+  color:white;*/
+  font-size:35rpx;
+  margin-right: 0;
+  line-height:95rpx;
+}
+
+.cart-detail, .cart-detail .mask {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.cart-detail .mask {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.cart-detail .cart-list {
+  position: absolute;
+  left: 0;
+  bottom: 100rpx;
+  width: 100%;
+  background: #f7f7f7;
+  padding: 0rpx 0;
+}
+
+.cart-detail .cart-list .item {
+  display: -webkit-flex;
+  color: #333;
+  font-size: 28rpx;
+  line-height: 50rpx;
+  padding: 6rpx 40rpx;
+}
+
+.cart-detail .cart-list .item .name {
+  -webkit-flex: 1;
+}
+
+.cart-detail .cart-list .item .total {
+  width: 120rpx;
+}
+
+.minus-btn, .add-btn {
+  /*position: absolute;*/
+  background-color: #abd;
+  /*margin-top: 10rpx;*/
+  line-height: 32rpx;
+  text-align: center;
+  width: 38rpx;
+  height: 38rpx;
+  border-radius: 50%;
+  font-size: 28rpx;
+  /*margin-top: 10rpx;
+  width: 30rpx;
+  height: 30rpx;
+  /*vertical-align: center; */
+  /*text-align: center;*/
+  /*border-radius: 50%;*/
+}
+
+.cart-detail .cart-list .item .num {
+  width: 50rpx;
+  text-align: center;
+  margin: 0 5rpx;
+}
+
+.item {
+  height: 100rpx;
+  display: flex;
+  align-items:center;
+}
+
+.menu-img {
+  border-radius: 8rpx;
+}
