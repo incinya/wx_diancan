@@ -1,13 +1,329 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f34b515-4a99-4078-b0c1-9d400b31bf52" name="Default" comment="" />
+    <list default="true" id="4f34b515-4a99-4078-b0c1-9d400b31bf52" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/comment_img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/comment_img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/like.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/unlike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/userimg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/userimg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/images/userimg3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/comment/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/comment/comment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/comment/comment.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/comment/comment.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/logs/logs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/logs/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/logs/logs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/logs/logs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/menu/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/menu/menu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/menu/menu.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/menu/menu.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/payment/payment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/payment/payment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/payment/payment.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/payment/payment.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/submit/submit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/submit/submit.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/submit/submit.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/pages/submit/submit.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/utils/cookie/Cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/client/weui.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/CDN-version/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/CDN-version/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/CDN-version/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/CDN-version/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/CDN-version/merchant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cdn-version/login/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cdn-version/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cdn-version/login/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/components/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/components/username.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/components/userphone.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/npm-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/css/app.07907c987c5a5c6d25e7bd9a21da8ea4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/css/app.07907c987c5a5c6d25e7bd9a21da8ea4.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/fonts/ionicons.05acfdb.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/fonts/ionicons.24712f6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/fonts/ionicons.2c2ae06.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/img/MerchantLogo3.3e0b9d1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/img/ionicons.621bd38.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/js/app.3b0d6412f05b139ae316.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/js/app.3b0d6412f05b139ae316.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/js/vendor.ea275255bce2b5942f33.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/dist/static/js/vendor.ea275255bce2b5942f33.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/assets/MerchantLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/assets/MerchantLogo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/assets/MerchantLogo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/assets/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/Addwindow.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/Dish.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/Editwindow.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/Menu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/Order.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/QRcode.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/RestaurantInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/components/login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/cal/cal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/cal/cal.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/cal/cal.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/cal/cal.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/logs/logs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/logs/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/logs/logs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/pages/logs/logs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/static/alice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-1/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/logs/logs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/logs/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/logs/logs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/pages/logs/logs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-2/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/logs/logs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/logs/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/logs/logs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/pages/logs/logs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/miniprogram-3/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/.idea/server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/ChickenDinner8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/dataSources/b9dff283-2c92-4046-bbdb-2d965d253bf3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ChickenDinner8Server/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ChickenDinner8Server/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ChickenDinner8Server/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ChickenDinner8Server/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/auth_required_decorator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/boss_user_ctrl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/boss_user_login_ctrl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/food_ctrl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/image_ctrl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0002_normaluser_nickname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0003_remove_normaluser_nickname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0004_order_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0005_auto_20180613_0322.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0006_auto_20180613_0323.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0007_auto_20180613_0334.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/0008_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/order_ctrl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/restaurant_ctrl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/ServerApp/wechat_login_ctrl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/changelists.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/changelists.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/css/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/admin/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/changelists.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/ChickenDinner8/static/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/Dockerfile_django" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/Dockerfile_nginx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/nginx_app.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/app.7934203f298bdb503b4e9f998c5fdf44.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/app.7934203f298bdb503b4e9f998c5fdf44.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/changelists.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/css/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/fonts/ionicons.05acfdb.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/fonts/ionicons.24712f6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/fonts/ionicons.2c2ae06.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/img/MerchantLogo3.3e0b9d1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/img/ionicons.621bd38.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/js/app.ce9a5bf3db82e9a7cc6e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/js/app.ce9a5bf3db82e9a7cc6e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/js/vendor.bbb03a35cc335a2d3329.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/static/js/vendor.bbb03a35cc335a2d3329.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bak/server/uwsgi.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wx_food/微信点餐系统.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/wx_food/微信点餐系统.pptx" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wx_food/index_0/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wx_food/index_0/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wx_food/index_0/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/order-project/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,6 +332,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -23,14 +342,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/bak/merchant_Web/Login-cli-version/merchant-end/package.json" />
-      <path value="$PROJECT_DIR$/bak/merchant_Web/Vue-cli-version/merchant-end/package.json" />
-    </packageJsonPaths>
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="188" />
-    <option name="y" value="54" />
+    <option name="x" value="427" />
+    <option name="y" value="24" />
     <option name="width" value="1618" />
     <option name="height" value="1002" />
   </component>
@@ -55,7 +371,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_0/wx_food" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -91,29 +407,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="188" y="54" width="1618" height="1002" extended-state="0" />
+    <frame x="427" y="24" width="1618" height="1002" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24968153" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25286624" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +437,90 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wx_food/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/wx_food/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/templates/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/order-project/app.wxss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/order-project/app.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/index_0/mongo_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/index_0/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/index_0/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/index_0/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微信点餐项目回忆录.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/index_0/media/item-m.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_food/index_0/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-project/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

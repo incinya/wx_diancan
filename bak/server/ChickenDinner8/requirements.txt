@@ -1,7 +1,0 @@
-django
-uwsgi
-mysqlclient
-Pillow
-pytz
-python-weixin
-simplejson
