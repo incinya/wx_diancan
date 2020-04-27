@@ -1,69 +1,18 @@
-¿ªÊ¼ÎÒÃÇÔÚÉè¼ÆÄ£¿éÊ±¹ý¶ÈÉè¼Æ
-ÎÒÃÇÔÚÉè¼ÆÈí¼þÊ±£¬½øÐÐÐèÇó·ÖÎöºÍ¼Ü¹¹Éè¼Æºó£¬¹ýÓÚ×Å¼±½øÐÐ±àÂë£¬Ã»ÓÐ¾­¹ýÏ¸ÖÂµÄÏêÏ¸Éè¼Æ
-
-Éè¼ÆÁËÒ»Ð©ÈßÓàµÄÄ£¿é£¨¸´ÔÓµÄÊý¾Ý±í£¬»­e-rÍ¼Ê±¹ý¶ÈÉè¼Æ£©£¬ÕâÐ©Ä£¿é½á¹¹¸´ÔÓ£¬ÔÚºóÆÚ±àÂëÊ±¸øÎÒÃÇ´øÀ´ÁË¾Þ´óµÄÀ§ÄÑ
-ËùÒÔÎÒÃÇ¼ò»¯ÁËÎÒÃÇµÄ¿ò¼Ü£¬²ÉÓÃ¸üÇåË¬µÄÉè¼Æ£¬Ö»±£Áô×îºËÐÄµÄ¹¦ÄÜ
-
-ÎÒÃÇµÄ¿ª·¢Ð¡×é´ó²¿·ÖÃ»ÓÐÎ¢ÐÅÐ¡³ÌÐò¿ª·¢µÄ»ù´¡£¬ËùÒÔÎÒÃÇ×ÔÑ§ÁËÎ¢ÐÅÐ¡³ÌÐò¿ò¼Ü£¬ÎÒÃÇ·¢ÏÖÕâ¸ö¿ò¼ÜÊÇ»ùÓÚjavascript£¬htmlºÍcss¹¹½¨µÄ£¬ËäÈ»ÎÒÃÇ¶ÔÆäÍ¨ÐÅºÍÈË»ú½»»¥µÄÊµÏÖ·½Ê½²¢²»ÁË½â£¬µ«ÊÇÎÒÃÇÍ¨¹ý¶àÐ´demo²âÊÔ¡¢ÔÄ¶Á¹Ù·½ËµÃ÷ÎÄµµºÍ²Î¿¼¿ªÔ´ÖÐ¹úÍøÕ¾ÉÏµÄÏîÄ¿£¬ºÜ¿ìÎÒÃÇµÄÍÅ¶Ó±ãÕÆÎÕÁËÎ¢ÐÅÐ¡³ÌÐò¿ò¼ÜµÄÊ¹ÓÃ¡£
-
-ÎÒÃÇÔÚ½â¾öÎ¢ÐÅÐ¡³ÌÐòÍøÂçÇëÇó¿çÓòÎÊÌâÊ±£¬·¢ÏÖÔÚµ÷ÊÔÄ£Ê½ÏÂ£¬¿ÉÒÔÖ±½ÓÍ¨¹ýÏîÄ¿ÉèÖÃ¹Ø±Õ³ÌÐò¶ÔÓòÃûµÄÐ£Ñé£¬ÕýÊ½·¢²¼µÄÐ¡³ÌÐòºÏ·¨ÓòÃûÊÇÔÚµÇÂ¼mp¹ÜÀíºóÌ¨ºó½øÐÐÅäÖÃµÄ¡£
-
-wxmlÊÇÒ³Ãæ¹¹½¨ÓïÑÔ,jsÊÇ¿ò¼Ü½Ó¿Ú,ÎÒÃÇÔÚ´¦ÀíÁÐ±íäÖÈ¾ºÍÌõ¼þäÖÈ¾Ê±ÏÖÑ§ÏÖÓÃ,ÔÄ¶ÁÁË´óÁ¿Î¢ÐÅÐ¡³ÌÐò¹Ù·½ÎÄµµ,Ð´ÁËÊý¸ödemoÎÄ¼þ,ÊµÏÖÁËÒ³ÃæäÖÈ¾µÄÂß¼­¿ØÖÆ
-Î¢ÐÅÐ¡³ÌÐò jsÖÐ±éÀúlist   https://blog.csdn.net/yechaoa/article/details/82155518
-
-¡¾Î¢ÐÅÐ¡³ÌÐò¡¿Êý×é²Ù×÷  https://www.cnblogs.com/weiboyuan/p/9232283.html
-
-request Ê¾Àý´úÂë
-wx.request({
-  url: 'test.php', //½öÎªÊ¾Àý£¬²¢·ÇÕæÊµµÄ½Ó¿ÚµØÖ·
-  data: {
-    x: '',
-    y: ''
-  },
-  header: {
-    'content-type': 'application/json' // Ä¬ÈÏÖµ
-  },
-  success (res) {
-    console.log(res.data)
-  }
-})
-
-----------------------------------------------------------------------------------------------------------------
-ÔÚÉè¼Æµã²Í¹ÜÀíÏµÍ³¹ÜÀíºóÌ¨Ê±,¿¼ÂÇµ½ÍøÉÏÓÐÐí¶àÓÅÐãµÄhtmlÄ£°å,µ«ÎÊÌâÀ´ÁË,ÍøÉÏÕÒÀ´µÄÄ£°åËäÈ»»­ÃæÓÅÃÀ,µ«ÊÇËüµÄhtmlÎÄ¼þºÍ¾²Ì¬ÎÄ¼þÊÇÁ¬Í¬Ò»¸ögetÇëÇó·ÅÔÚÒ»Æð,ÎªÁËÊµÏÖÇ°ºó¶ËÊý¾Ý¶Ô½Ó,ÎÒÃÇÉè¼ÆÒ»¸öÇÉÃîµÄÊÓÍ¼º¯Êý,Í¨¹ý²Ù×÷request.META.PATH_INFO,½«ºó×ºÎªhtmlµÄgetÇëÇó·µ»ØÄ£°å,¶ÔÓÚ¾²Ì¬ÎÄ¼þµÄÇëÇóÔò·´À¡HttpResponse,³É¹¦½â¾öÁËÇ°ºó¶Ë¶Ô½ÓÎÊÌâ
-
-
-DjangoµÄrequest.POST»ñÈ¡²»µ½ÄÚÈÝµÄÔ­Òò
-def _load_post_and_files(self):
-
-º¯Êý¿´ÆðÀ´ÓÐµã³¤£¬µ«ÊÇÎÒÃÇÖ»Òª¹Ø×¢ºóÃæµÄif elif elseÕâÈý¸ö·ÖÖ§¼´¿É£¬´Óelif self.content_type == 'application/x-www-form-urlencoded':Õâ¸ö·ÖÖ§ÄÜ¿´µ½Ö»ÓÐÇëÇóheaderÖÐµÄ'Content-Type'£º'application/x-www-form-urlencoded'²Å»áÌî³ärequest.POST£¬ÆäËüÇé¿öÏÂÖ»ÓÐÒ»¸ö¿ÕµÄ<QueryDict: {}>¡£ 
-
--------------------------------------------------------------------------------------
-Êý¾Ý¿âµÄÑ¡Ôñ
-¿¼ÂÇµ½²¢·¢Á¿½ÏµÍ,Ñ¡Ôñ»ùÓÚ´ÅÅÌµÄÊý¾Ý¿â
-¿¼ÂÇµ½Êý¾Ý¿âÊÂÎñ´¦Àí½ÏÎª¼òµ¥,Ñ¡Ôñ·Ç¹ØÏµÐÍÊý¾Ý¿â
-×ÛÉÏ,Ñ¡ÓÃmongoDB
-
 ---------------------------------------------------------------------------
-djangoÁ¬½ÓmongodbÊý¾Ý¿â
+djangoè¿žæŽ¥mongodbæ•°æ®åº“
 https://blog.csdn.net/kuangshp128/article/details/79039366
 django@1.11.8
 mongoengine@0.15.0
 ---------------------------------------------------
-DjangoÏîÄ¿ | Ê¹ÓÃMongoDB´æ´¢Í¼Æ¬
+Djangoé¡¹ç›® | ä½¿ç”¨MongoDBå­˜å‚¨å›¾ç‰‡
 https://blog.csdn.net/qq_40558629/article/details/85109771
-
--------------------------------------------------------------------------------
-
-
-×ÔÔö×Ö¶ÎµÄÉè¼Æ
-
 ------------------------------------------------------------------------
+å€¼å¾—æ”¹è¿›çš„åœ°æ–¹
 
-ÖµµÃ¸Ä½øµÄµØ·½
-ºóÌ¨¹ÜÀí,Ôö¼ÓËÑË÷²ËÆ·¹¦ÄÜ
-Ç°Ì¨ÏÔÊ¾ËùÓÐ²ËÆ·,²»ÓÉ²ËÆ·idÅÅÐò,¸ÄÎªÓÉ²ËÆ·ÖÖÀàÅÅÐò
-²Í×À½áÕË¹¦ÄÜ
-²Í×ÀÔ¤¶¨¹¦ÄÜ
+åŽå°ç®¡ç†,å¢žåŠ æœç´¢èœå“åŠŸèƒ½
+å‰å°æ˜¾ç¤ºæ‰€æœ‰èœå“,ä¸ç”±èœå“idæŽ’åº,æ”¹ä¸ºç”±èœå“ç§ç±»æŽ’åº
+é¤æ¡Œç»“è´¦åŠŸèƒ½
+é¤æ¡Œé¢„å®šåŠŸèƒ½
 --------------------------------------------------------------
 
 
